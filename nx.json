@@ -1,0 +1,24 @@
+{
+  "npmScope": "plastikaweb2020-full-stack",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "plastikaweb-full-stack-e2e": {
+      "tags": []
+    },
+    "plastikaweb-full-stack": {
+      "tags": []
+    },
+    "api": {
+      "tags": []
+    },
+    "api-interfaces": {
+      "tags": []
+    }
+  }
+}

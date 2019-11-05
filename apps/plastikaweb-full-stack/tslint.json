@@ -1,0 +1,17 @@
+{
+  "extends": "../../tslint.json",
+  "rules": {
+    "directive-selector": [
+      true,
+      "attribute",
+      "plastikaweb2020FullStack",
+      "camelCase"
+    ],
+    "component-selector": [
+      true,
+      "element",
+      "plastikaweb2020-full-stack",
+      "kebab-case"
+    ]
+  }
+}
